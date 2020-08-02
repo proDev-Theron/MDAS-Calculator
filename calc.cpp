@@ -2,13 +2,13 @@
 Simple C++ console calculator application capable of MDAS Operations, Error prevention/Input Validation and clear screen operations for Windows
 Created by Theron Adrianne A. Bueno (2020)
 Follow me on GitHub for more Projects
-https://www.github.com/prodev-theron
+https://github.com/proDev-Theron/
 */
 #include <iostream>
 using namespace std;
 int main(){
     system("cls");
-    cout << "||==============================||\n||   Theron Adrianne A. Bueno   ||\n||          Calculator          ||\n|| www.github.com/prodev-theron ||\n||Say hi prodev.theron@gmail.com||\n||==============================||" << endl << endl;
+    cout << "||==============================||\n||   Theron Adrianne A. Bueno   ||\n||          Calculator          ||\n|| www.github.com/proDev-Theron ||\n||Say hi prodev.theron@gmail.com||\n||==============================||" << endl << endl;
     double var1, var2;
     system("pause");
     system("cls");
